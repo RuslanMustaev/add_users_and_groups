@@ -1,0 +1,24 @@
+Username	class01		class02		class03		class04		class05		class06		FullName
+
+jmcque		htcs6701	htcs6702	htcs6703	-			-			-			Joe	McQue
+jmccartn	htcs6701	htcs6702	htcs6703	-			-			-			John McCartney
+mmcqueen	htcs6701	htcs6702	htcs6703	-			-			-			Matt McQueen
+mmcvean		htcs6701	htcs6702	htcs6703	-			-			-			Malcolm	McVean
+hbradsha	htcs6701	htcs6702	-			-			-			-			Harry Bradshaw
+bdunlop		htcs6701	htcs6702	-			-			-			-			Billy Dunlop
+agoldie		htcs6701	htcs6702	-			-			-			-			Archie Goldie
+araisbec	htcs6701	-			-			-			-			-			Alex Raisbeck
+troberts	htcs6701	-			htcs6703	-			-			-			Tom	Robertson
+jwalker		htcs6701	-			htcs6703	-			-			-			John Walker
+bperkins	htcs6701	-			htcs6703	-			-			-			Bill Perkins
+srayboul	htcs6701	htcs6702	htcs6703	-			-			-			Sam	Raybould
+mparry		htcs6701	htcd6702	htcs6703	-			-			-			Maurice	Parry
+agoddard	htcs6701	htcs6703	htcs6703	-			-			-			Arthur Goddard
+jparkins	htcs6701	htcd6703	htcs6703	-			-			-			Jack Parkinson
+rrobinso	htcs6701	-			htcs6703	-			-			-			Robbie Robinson
+jhewitt		-			-			-			htcs6704	htcs6705	htcs6706	Joe	Hewitt
+tchorlto	-			-			-			htcs6704	htcs6705	htcs6706	Tom	Chorlton
+shardy		-			-			-			htcs6704	htcs6705	htcs6706	Sam	Hardy
+jbradley	-			-			-			htcs6704	htcs6705	htcs6706	James Bradley
+jharrop		-			-			-			htcs6704	htcs6705	htcs6706	James Harrop
+rorr		-			-			-			htcs6704	htcs6705	htcs6706	Ronald Orr
