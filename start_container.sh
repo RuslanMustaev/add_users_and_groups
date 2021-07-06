@@ -1,0 +1,1 @@
+docker-compose run -v .:/code python /bin/bash
